@@ -1,37 +1,18 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About
+tags: [about, Jared, engineer]
+date: 2018-02-20
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<!--<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>-->
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## Who Am I
+I am a mechanical engineer working on finishing my undergraduate degree at the University of North Dakota. I currently work for Booz Allen Hamilton supporting the Air Force. I would like to pursue a M.S. in computer science and further my knowledge of programming, machine learning, and vision systems. I am interested in defense, space systems, aerospace, robotics, machine learning, project management, and continuing professional development to become a leader within the company I work for.
 
-## Preview
+Beyond school and I a husband to an amazing wife. We live in Albuquerque, NM and look forword to the possabilities of moving out of the state we have called home for our whole lives. We have a Siberian Husky whom fills in as our only child at this time. I enjoy gaining skills in 3D-printing and rapid prototyping as a hobby. When I am not trying to further my programming skills, completing homework, or going to work you can find me watching movies or reading about the latest technology. If you would like to know more about me or the projects on my site please do not hesitate to ask. 
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
       
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+<!--[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}-->
