@@ -5,7 +5,7 @@ description:        "Site for projects,research, and blogs."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo-2.png'
-background:         'assets/img/placeholder-big.jpeg'
+background:         'assets/img/placeholder-big.png'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://jredsmitty.github.io
