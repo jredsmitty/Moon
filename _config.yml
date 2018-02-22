@@ -1,7 +1,7 @@
 # Site
 title:              Jared Smith
 bio:                'Engineer, explorer, and always curious.'
-description:        "Site for projects,research, and blogs."
+description:        "Site for projects, research, and blogs."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo-2.png'
@@ -42,7 +42,7 @@ email:              jred.smith@live.com
 #facebook:           username
 github-url:         jredsmitty
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+#linkedin:          jared-smith-4204a070
 #xing:              username
 instagram:          jred.smith
 #lastfm:            username
